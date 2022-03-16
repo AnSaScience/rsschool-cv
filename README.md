@@ -1,1 +1,2 @@
-# rsschool-cv
+https://AnSaScience.github.io/rsschool-cv/
+
